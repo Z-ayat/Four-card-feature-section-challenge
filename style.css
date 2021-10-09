@@ -58,6 +58,10 @@ img {
     font-weight: 600;
 }
 
+main p {
+    font-size: 0.85rem;
+}
+
 .card {
     overflow: hidden;
     position: relative;
