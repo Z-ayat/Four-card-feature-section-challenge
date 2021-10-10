@@ -32,6 +32,7 @@ img {
     font-size: 1.4rem;
     font-weight: 200;
     padding: .2rem 0;
+    text-align: center;
     color: var(--Very-Dark-Blue);
 }
 
@@ -39,6 +40,7 @@ img {
     font-size: 1.4rem;
     color: var(--Very-Dark-Blue);
     padding-bottom: 0.53rem;
+    text-align: center;
     font-weight: 600;
 }
 
@@ -50,7 +52,7 @@ img {
     text-align: center;
 }
 
-.card-head h4 {
+.card-head p {
     text-align: center;
     font-size: 1.4rem;
     color: var(--Very-Dark-Blue);
@@ -170,7 +172,7 @@ main p {
     body footer:last-of-type {
         display: none;
     }
-    .card-head h4 {
+    .card-head p {
         text-align: left;
     }
 }
