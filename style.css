@@ -51,7 +51,7 @@ img {
 }
 
 .card-head h4 {
-    text-align: left;
+    text-align: center;
     font-size: 1.4rem;
     color: var(--Very-Dark-Blue);
     padding: .2rem 0;
@@ -144,6 +144,7 @@ main p {
     }
     .heading-title,
     .powered-head {
+        font-size: 2.4rem;
         text-align: center;
     }
     .brief {
@@ -168,5 +169,8 @@ main p {
     }
     body footer:last-of-type {
         display: none;
+    }
+    .card-head h4 {
+        text-align: left;
     }
 }
